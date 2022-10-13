@@ -6,4 +6,4 @@ How to run:
 4. The program will print to terminal the shows and urls as well as write the required csv file which is called shows.csv.
 
 Testing:
-I did manual testing by checking random shows on the website with rows of the output csv. For example, I made sure the first show on the website matched with the first show in the csv, I did this for multiple shows. This testing is clearly non-comprehensive since it doesn't test if we have actually read in every show on the site but I couldn't come up with a way to test this. 
+I did manual testing by checking random shows on the website with rows of the output csv. For example, I made sure the first show on the website matched with the first show in the csv, I did this for multiple shows, including shows that require clicking the load more shows button. This testing is clearly non-comprehensive since it doesn't test if we have actually read in every show on the site but I couldn't come up with a way to test this. 
